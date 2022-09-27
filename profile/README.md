@@ -5,7 +5,7 @@
 - [ ] Logo  
 - [ ] Banner  
 
-### Legal
+### Legal
 - [ ] Privacy Policy  
 - [ ] Terms of usage  
 - [ ] P.IVA  
