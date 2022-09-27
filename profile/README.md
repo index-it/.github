@@ -11,10 +11,10 @@
 - [ ] P.IVA  
 
 ### Backend
-- [ ] List DAO  
-- [ ] List item DAO  
-- [ ] Categories DAO  
-- [ ] User DAO  
+- [X] List DAO  
+- [X] List item DAO  
+- [X] Categories DAO  
+- [X] User DAO  
 - [ ] Base auth registration  
 - [ ] OAuth authentication  
 - [ ] Email validation  
