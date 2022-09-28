@@ -21,6 +21,7 @@
 - [ ] Websockets  
 - [ ] Push notifications  
 - [ ] Premium checks  
+- [ ] Tests  
 
 ### Mobile app
 - [ ] Backend interactor  
