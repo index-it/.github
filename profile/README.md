@@ -15,9 +15,10 @@
 - [X] List item DAO  
 - [X] Categories DAO  
 - [X] User DAO  
-- [ ] Base auth registration  
+- [x] Base auth registration  
 - [ ] OAuth authentication  
-- [ ] Email validation  
+- [x] Email validation  
+- [ ] Forgot password handling  
 - [ ] Websockets  
 - [ ] Push notifications  
 - [ ] Premium checks  
