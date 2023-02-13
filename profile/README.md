@@ -1,52 +1,13 @@
-# Index development
+<h1 align="center">
+  <br>
+  <a href="https://index-it.app"><img src="https://index-it.app/logo.png" alt="Index" width="200"></a>
+  <br>
+Index
+  <br>
+</h1>
 
-### Branding
-- [ ] Colors  
-- [ ] Logo  
-- [ ] Banner  
+<h4 align="center"><a href="https://index-it.app" target="_blank">The essential app for any kind of list</a>.</h4>
 
-### Legal
-- [ ] Privacy Policy  
-- [ ] Terms of usage  
-- [ ] P.IVA  
-
-### Backend
-- [X] List DAO  
-- [X] List item DAO  
-- [X] Categories DAO  
-- [X] User DAO  
-- [x] Base auth registration  
-- [ ] OAuth authentication  
-- [x] Email validation  
-- [ ] Forgot password handling  
-- [ ] Websockets  
-- [ ] Push notifications  
-- [ ] Premium checks  
-- [ ] Tests  
-
-### Mobile app
-- [ ] Backend interactor  
-- [ ] Login page  
-- [ ] Sign up page  
-- [ ] Welcome screen  
-- [ ] Homepage  
-- [ ] List view  
-- [ ] Item editor  
-- [ ] List settings  
-- [ ] Ordering  
-- [ ] Filtering  
-- [ ] Notifications  
-- [ ] Android widget  
-- [ ] IOS widget  
-- [ ] Premium page  
-
-### Desktop app
-- [ ] Responsiveness from Flutter app  
-
-### Website
-- [ ] Homepage  
-- [ ] Download page  
-- [ ] Blog  
-- [ ] Forum  
-- [ ] Status  
-  
+<p align="center">
+  <a href="https://index-it.app/discord"><img alt="Discord" src="https://img.shields.io/discord/1043536767934021713?color=4&logo=Discord"></a>
+</p>
